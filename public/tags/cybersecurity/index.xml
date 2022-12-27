@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>cybersecurity on Clarity</title>
+    <link>https://philippe-assouline.github.io/tags/cybersecurity/</link>
+    <description>Recent content in cybersecurity on Clarity</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 20 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://philippe-assouline.github.io/tags/cybersecurity/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Zero Trust Security</title>
+      <link>https://philippe-assouline.github.io/post/zero-trust/</link>
+      <pubDate>Fri, 20 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://philippe-assouline.github.io/post/zero-trust/</guid>
+      <description>
+        
+          
+            Something about zero trust security
+Note This is a standard &amp;quot;note&amp;quot; style.
+Info Here is the &amp;quot;info&amp;quot; style.
+Tip Here is a &amp;quot;tip&amp;quot; variant of a notice.
+Warning Here is the &amp;quot;warning&amp;quot; flavor of a notice.
+          
+          
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>
